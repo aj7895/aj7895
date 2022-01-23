@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit John</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Redux**
 
 - 👨‍💻 All of my projects are available at [amitjohn](amitpjohn.netlify.app)
 
